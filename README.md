@@ -72,7 +72,7 @@ This project enables real-time surveillance and remote control via a custom-buil
 ---
 
 ## Demo
-🎥 ![Watch Full Tutorial on YouTube]((https://youtu.be/meLO_pPPLLU))
+🎥 [Watch Full Tutorial on YouTube]((https://youtu.be/meLO_pPPLLU))
 
 ---
 
