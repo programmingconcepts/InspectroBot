@@ -72,8 +72,7 @@ This project enables real-time surveillance and remote control via a custom-buil
 ---
 
 ## Demo
-![Inspectorobot Preview]((https://youtu.be/meLO_pPPLLU))  
-🎥 [Watch Full Tutorial on YouTube]((https://youtu.be/meLO_pPPLLU))
+🎥 ![Watch Full Tutorial on YouTube]((https://youtu.be/meLO_pPPLLU))
 
 ---
 
