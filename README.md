@@ -48,12 +48,12 @@ This project enables real-time surveillance and remote control via a custom-buil
 ### 1. Flash ESP32-CAM
 - Open Arduino IDE
 - Install ESP32 board support
-- Flash `ESP32_CAM.ino` to ESP32-CAM
+- Flash `ESP_CAM.ino` to ESP32-CAM
 - Note the IP address from the serial monitor
 
 ### 2. Flash Arduino UNO
 - Open Arduino IDE
-- Flash `Arduino_MotorControl.ino` to Arduino UNO
+- Flash `Inspectrobot.ino` to Arduino UNO
 
 ### 3. Setup Windows Application
 - Open `Inspectrobot.sln` in Visual Studio
