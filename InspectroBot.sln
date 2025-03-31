@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InspectroBot", "InspectroBot\InspectroBot.csproj", "{9B581D37-B5A5-4AE7-B2D6-0BA25B27F30B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B581D37-B5A5-4AE7-B2D6-0BA25B27F30B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B581D37-B5A5-4AE7-B2D6-0BA25B27F30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B581D37-B5A5-4AE7-B2D6-0BA25B27F30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B581D37-B5A5-4AE7-B2D6-0BA25B27F30B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {281FC6F5-8986-4688-B68F-BA5E998B1EE0}
+	EndGlobalSection
+EndGlobal
